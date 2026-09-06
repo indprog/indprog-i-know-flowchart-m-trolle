@@ -1,0 +1,4 @@
+You want to decide how to get to DTU ballerup, after you have taken the s-train to malmparken.
+Input whether it is raining (is_raining).
+If it is raining, output "take the bus from malmparken".
+Otherwise, output "walk from malmparken".
